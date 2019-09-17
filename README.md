@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mail2mousam/calculator/_apis/build/status/mousam-1991.calculator?branchName=master)](https://dev.azure.com/mail2mousam/calculator/_build/latest?definitionId=9&branchName=master)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
